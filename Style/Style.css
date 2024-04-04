@@ -4,9 +4,15 @@
     border-color: black;
     color: white;
 }
-#Title{
-    color: white;
-    padding-top: 20px;
+.cont {
+  margin: 20 0 0 0;
+}
+.game-ico{
+  background-image: url("../Img/starrail.jpg");
+  height: 35px;
+  width: 35px;
+  border-radius: 10px;
+  background-size: 100%;
 }
 main {
     min-height: 1000px;
