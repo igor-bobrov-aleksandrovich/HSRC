@@ -1,11 +1,12 @@
 *{
     margin: 0;
     padding: 0;
-    border-color: black;
+    border-color: #020202;
     color: white;
+    text-decoration: none;
 }
 .cont {
-  margin: 20 0 0 0;
+  margin: 10 0 0 0;
 }
 .game-ico{
   background-image: url("../Img/starrail.jpg");
@@ -14,14 +15,14 @@
   border-radius: 10px;
   background-size: 100%;
 }
-main {
+.main-back {
     min-height: 1000px;
     text-align: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
     background-image: url("../Img/BackMain.jpg");
-    background-color: black;
+    background-color: #020202;
     border-radius: 50px;
     padding-top: 600px;
     display: flex;
